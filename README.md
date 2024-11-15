@@ -1,5 +1,3 @@
 # traninig
-rtwertw
-ertw
-ert
-wert
+
+Changes from new_brunch
