@@ -1,4 +1,3 @@
 # traninig
 
-erwertwer
-ewrtwert
+Changes from new_brunch
